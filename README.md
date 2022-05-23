@@ -23,9 +23,9 @@ https://gaia-nftmaker.com/
 <br>
 <br>
 With Gaia You can:<br>
->>Implement NFT ERC-721 Smart Contract on BSC without programming knowledge<br>
->>Prove you're the contract owner on BSC chain via decentralized way (Web 3.0)<br>
->>Upload and Update your NFT image anytime<br>
->>Free to design and change your NFT attributes<br>
->>Free to have a web page letting your followers and clients mint<br>
->>Negotiate with any BSC martketplace by yourself<br>
+>>(1)Implement NFT ERC-721 Smart Contract on BSC without programming knowledge<br>
+>>(2)Prove you're the contract owner on BSC chain via decentralized way (Web 3.0)<br>
+>>(3)Upload and Update your NFT image anytime<br>
+>>(4)Free to design and change your NFT attributes<br>
+>>(5)Free to have a web page letting your followers and clients mint<br>
+>>(6)Negotiate with any BSC martketplace by yourself<br>
