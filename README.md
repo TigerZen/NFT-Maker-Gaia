@@ -20,11 +20,12 @@ NFT Maker Gaia is a perfect NFT Authoring tool on the BSC chain. Not only turn a
 https://gaia-nftmaker.com/
 
 「NFT Maker - Gaia 」is the best tool to build your NFT ERC-721 smart contracts by Self-Service.
-
-With Gaia You can:
->>Implement NFT ERC-721 Smart Contract on BSC without programming knowledge
->>Prove you're the contract owner on BSC chain via decentralized way (Web 3.0)
->>Upload and Update your NFT image anytime
->>Free to design and change your NFT attributes
->>Free to have a web page letting your followers and clients mint
->>Negotiate with any BSC martketplace by yourself
+<br>
+<br>
+With Gaia You can:<br>
+>>Implement NFT ERC-721 Smart Contract on BSC without programming knowledge<br>
+>>Prove you're the contract owner on BSC chain via decentralized way (Web 3.0)<br>
+>>Upload and Update your NFT image anytime<br>
+>>Free to design and change your NFT attributes<br>
+>>Free to have a web page letting your followers and clients mint<br>
+>>Negotiate with any BSC martketplace by yourself<br>
